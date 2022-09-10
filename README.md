@@ -1,5 +1,7 @@
 # Helix-jump-game
 A simple clone version of the popular hyper casual game Helix Jump. <br />
+.The player controlls a ball which is continuously bouncing  down a series of circular platforms. <br />
+Fall through the cracks and avoid landing in the forbidden zones<br />
 -Randomized platforms and obstacles. <br />
 -Made in Unity with C#. <br />
 
